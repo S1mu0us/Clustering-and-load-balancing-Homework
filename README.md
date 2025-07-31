@@ -30,6 +30,8 @@
 
 Первый сервер на `8001`, второй сервер на `8002` HAProxy с портом `8004` для TCP
 
+Файл конфигурации [haproxy.cfg](haproxy.cfg)
+
 <img src = "img/image1.png">
 
 <img src = "img/image2.png">
