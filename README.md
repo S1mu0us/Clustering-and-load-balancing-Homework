@@ -29,7 +29,7 @@
 
 Первый сервер был поставлен на `8001`, второй сервер `8002`, а HAProxy на `8004` для TCP
 
-Файл конфигурации [haproxy.cfg](haproxy.cfg)
+Файл конфигурации [haproxy.cfg](haproxy1/haproxy.cfg)
 
 <img src = "img/image1.png">
 
